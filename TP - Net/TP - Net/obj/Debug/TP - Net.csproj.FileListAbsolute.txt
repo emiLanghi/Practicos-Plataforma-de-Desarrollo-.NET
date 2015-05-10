@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.exe.config
+C:\Users\Usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.exe
+C:\Users\Usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.exe
+C:\Users\Usuario\documents\visual studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.pdb

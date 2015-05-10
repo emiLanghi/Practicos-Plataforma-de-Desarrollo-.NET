@@ -1,0 +1,3 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.pdb
