@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\TP - Net.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\ClassLibrary1.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\ClassLibrary2.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\ClassLibrary1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\ClassLibrary2.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\TP - Net\obj\Debug\TP - Net.pdb
+C:\Users\Usuario\Documents\GitHub\Practicos-Plataforma-de-Desarrollo-.NET\TP - Net\TP - Net\bin\Debug\TP - Net.exe.config
+C:\Users\Usuario\Documents\GitHub\Practicos-Plataforma-de-Desarrollo-.NET\TP - Net\TP - Net\obj\Debug\TP - Net.exe

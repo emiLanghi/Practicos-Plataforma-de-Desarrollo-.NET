@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TPNet.Modelo
+namespace TP2.Modelo
 {
    public class Valorizacion
     {
-       public int valor { get; set; }
+       public int Valor { get; set; }
        public string Descripcion { get; set; }
     }
 }

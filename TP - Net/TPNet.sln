@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPNet", "TP - Net\TPNet.csproj", "{53CDEF72-19F3-416B-BDD5-C128CEF22AC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2", "TP - Net\TP2.csproj", "{53CDEF72-19F3-416B-BDD5-C128CEF22AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPNet.DataAcces", "ClassLibrary1\TPNet.DataAcces.csproj", "{337955C2-72E6-4E28-89A1-A9BBA4D64CD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2.DataAcces", "ClassLibrary1\TP2.DataAcces.csproj", "{337955C2-72E6-4E28-89A1-A9BBA4D64CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPNet.Modelo", "ClassLibrary2\TPNet.Modelo.csproj", "{B596BCD0-16D5-47D0-8477-0A4ADD7CB490}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2.Modelo", "ClassLibrary2\TP2.Modelo.csproj", "{B596BCD0-16D5-47D0-8477-0A4ADD7CB490}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

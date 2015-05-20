@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\ClassLibrary2\obj\Debug\TPNet.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\TP - Net\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
